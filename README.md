@@ -101,7 +101,10 @@ Notion으로 일정과 작업을 관리하고, Figma로 화면을 디자인하�
 
 ![Figma](images/figma_design.png)
 
-🔗 [Figma 바로가기](https://www.figma.com/design/aK2gKNUb8bxkMFCU6ES8Ss/%EA%B8%88%EC%9C%B5-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=17-2979&m=dev&t=V1uoZDM5dfp42IBC-1)
+🔗 
+<a href="https://www.figma.com/design/aK2gKNUb8bxkMFCU6ES8Ss/%EA%B8%88%EC%9C%B5-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=17-2979&m=dev&t=V1uoZDM5dfp42IBC-1" target="_blank">
+  Figma 바로가기
+</a>
 
 <br>
 <br>
@@ -118,7 +121,7 @@ Notion으로 일정과 작업을 관리하고, Figma로 화면을 디자인하�
   <summary>테이블 정의서</summary>
   <br>
     🔗 
-  <a href="https://docs.google.com/spreadsheets/d/19e_x4LEoJLsBGvr3lKOzUTOLFp19_eG0KBQx1qcyVqU/edit?usp=sharing">
+  <a href="https://docs.google.com/spreadsheets/d/19e_x4LEoJLsBGvr3lKOzUTOLFp19_eG0KBQx1qcyVqU/edit?usp=sharing" target="_blank">
     테이블 정의서 확인하기
   </a>
 </details>
@@ -299,9 +302,15 @@ Notion으로 일정과 작업을 관리하고, Figma로 화면을 디자인하�
 
 ## 관련 글
 
-🔗 [프로젝트 소개 및 회고](https://velog.io/@kimkaaa/Financial-Project-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C-%EB%B0%8F-%ED%9A%8C%EA%B3%A0)
+🔗 
+<a href="https://velog.io/@kimkaaa/Financial-Project-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C-%EB%B0%8F-%ED%9A%8C%EA%B3%A0" target="_blank">
+프로젝트 소개 및 회고
+</a>
 
-🔗 [설계 조회 페이지 구현 및 트러블슈팅](https://velog.io/@kimkaaa/Financial-Project-%EC%84%A4%EA%B3%84-%EC%A1%B0%ED%9A%8C-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B5%AC%ED%98%84-%EB%B0%8F-%ED%8A%B8%EB%9F%AC%EB%B8%94%EC%8A%88%ED%8C%85)
+🔗 
+<a href="https://velog.io/@kimkaaa/Financial-Project-%EC%84%A4%EA%B3%84-%EC%A1%B0%ED%9A%8C-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B5%AC%ED%98%84-%EB%B0%8F-%ED%8A%B8%EB%9F%AC%EB%B8%94%EC%8A%88%ED%8C%85" target="_blank">
+설계 조회 페이지 구현 및 트러블슈팅
+</a>
 
 <br>
 <br>
@@ -324,7 +333,7 @@ Notion으로 일정과 작업을 관리하고, Figma로 화면을 디자인하�
 
 설계 조회 기능 구현 과정에서는 계산 결과가 0인 경우와 계산 불가 상태가 동일하게 표시되는 문제를 개선했습니다.
 
-입력값 검증을 통해 null을 반환하도록 수정하고,
+입력값 검증을 통해 null을 반환하도록 수정하고
 
 서비스 계층에서 "N/A"와 실제 0 값을 구분해 처리함으로써 조회 결과의 의미를 명확하게 표현했습니다.
 

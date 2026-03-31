@@ -101,10 +101,7 @@ Notion으로 일정과 작업을 관리하고, Figma로 화면을 디자인하�
 
 ![Figma](images/figma_design.png)
 
-🔗 
-<a href="https://www.figma.com/design/aK2gKNUb8bxkMFCU6ES8Ss/%EA%B8%88%EC%9C%B5-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=17-2979&m=dev&t=V1uoZDM5dfp42IBC-1" target="_blank">
-  Figma 바로가기
-</a>
+🔗 [Figma 바로가기](https://www.figma.com/design/aK2gKNUb8bxkMFCU6ES8Ss/%EA%B8%88%EC%9C%B5-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=17-2979&m=dev&t=V1uoZDM5dfp42IBC-1)
 
 <br>
 <br>
@@ -302,15 +299,9 @@ Notion으로 일정과 작업을 관리하고, Figma로 화면을 디자인하�
 
 ## 관련 글
 
-🔗 
-<a href="https://velog.io/@kimkaaa/Financial-Project-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C-%EB%B0%8F-%ED%9A%8C%EA%B3%A0" target="_blank">
-프로젝트 소개 및 회고
-</a>
+🔗 [프로젝트 소개 및 회고](https://velog.io/@kimkaaa/Financial-Project-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C-%EB%B0%8F-%ED%9A%8C%EA%B3%A0)
 
-🔗 
-<a href="https://velog.io/@kimkaaa/Financial-Project-%EC%84%A4%EA%B3%84-%EC%A1%B0%ED%9A%8C-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B5%AC%ED%98%84-%EB%B0%8F-%ED%8A%B8%EB%9F%AC%EB%B8%94%EC%8A%88%ED%8C%85" target="_blank">
-설계 조회 페이지 구현 및 트러블슈팅
-</a>
+🔗 [설계 조회 페이지 구현 및 트러블슈팅](https://velog.io/@kimkaaa/Financial-Project-%EC%84%A4%EA%B3%84-%EC%A1%B0%ED%9A%8C-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B5%AC%ED%98%84-%EB%B0%8F-%ED%8A%B8%EB%9F%AC%EB%B8%94%EC%8A%88%ED%8C%85)
 
 <br>
 <br>

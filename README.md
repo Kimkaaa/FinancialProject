@@ -69,7 +69,7 @@ Notion으로 일정과 작업을 관리하고, Figma로 화면을 디자인하�
 
 - **데이터베이스**: PostgreSQL
 
-- **인프라 및 배포**: AWS (S3, RDS, Elastic Beanstalk), GitHub Actions
+- **인프라 및 배포**: AWS (Elastic Beanstalk, RDS, S3), GitHub Actions
 
 - **기타**: Redis, CoolSMS API
 
